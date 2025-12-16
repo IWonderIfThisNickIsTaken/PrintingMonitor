@@ -1,5 +1,5 @@
 # PrintingMonitor
-A simple printing monitor written in C++
+A simple printing monitor written in C++ and using [QWEN](https://github.com/QwenLM/qwen-code) with the following [prompt](https://github.com/IWonderIfThisNickIsTaken/PrintingMonitor/blob/main/Prompt.txt)
 
 1. Compile the application as described above
 2. Run the executable to start the monitoring system
